@@ -4,7 +4,7 @@ A feature-rich Weather App built with React and styled using Tailwind CSS. This 
 
 ## Live Demo  
 
-You can try out the app live on GitHub Pages here: [Demo Link](https://your-github-username.github.io/Weather-App)  
+You can try out the app live on GitHub Pages here: [Demo Link](https://eglantinenf.github.io/WeatherApp-React.js-Tailwind-/)  
 
 ## Features  
 
