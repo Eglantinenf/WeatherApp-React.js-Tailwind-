@@ -1,7 +1,7 @@
 {
   "name": "weather-app",
   "homepage": "https://eglantinenf.github.io/WeatherApp-React.js-Tailwind-/",
-  "version": "0.1.0",
+  "version": "0gi.1.0",
   "private": true,
   "dependencies": {
     "axios": "^1.7.9",
