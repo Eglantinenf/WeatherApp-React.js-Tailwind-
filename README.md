@@ -31,10 +31,10 @@ To get started with this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Eglantinenf/TodoList-React.js-Tailwind.git```
+   git clone https://github.com/Eglantinenf/WeatherApp-React.js-Tailwind-.git```
 2. Navigate to the project directory:
    ```bash
-   cd TodoList-React.js-Tailwind ```
+   cd WeatherApp-React.js-Tailwind- ```
 3.Install the dependencies:
    ```bash
    npm install
