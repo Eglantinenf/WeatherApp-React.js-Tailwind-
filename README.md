@@ -4,14 +4,13 @@ A feature-rich Weather App built with React and styled using Tailwind CSS. This 
 
 ## Live Demo  
 
-You can try out the app live on GitHub Pages here: [Demo Link](https://your-github-username.github.io/Weather-App)  
+You can try out the app live on GitHub Pages here: [Demo Link](https://eglantinenf.github.io/WeatherApp-React.js-Tailwind-/)  
 
 ## Features  
 
 - **Search by City**: Enter the name of any city to retrieve its current weather conditions.  
 - **Detailed Weather Information**: View essential details including temperature, humidity, wind speed, and weather description.  
-- **Error Handling**: User-friendly error messages when the city is not found or when there are network issues.  
-- **Responsive Design**: The app is fully responsive, providing a seamless experience on both desktop and mobile devices.  
+- **Error Handling**: User-friendly error messages when the city is not found or when there are network issues. 
 - **Loading Animation**: A visual loading effect while fetching weather data to enhance user experience.  
 
 
